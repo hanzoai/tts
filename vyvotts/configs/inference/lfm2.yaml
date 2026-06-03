@@ -1,3 +1,7 @@
+CODEC_TYPE: "snac"          # "snac" or "mimi"
+CODEC_MODEL: null            # null = default model per codec type
+NUM_CODEBOOKS: 8             # mimi: 1-32 (default 8), snac: ignored
+
 TOKENIZER_LENGTH: 64400
 START_OF_TEXT: 1
 END_OF_TEXT: 7
