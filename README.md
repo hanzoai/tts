@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="tts" width="880"></p>
+
 <div align="center">
 <h2>
     VyvoTTS: LLM-Based Text-to-Speech Training Framework
