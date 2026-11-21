@@ -27,6 +27,8 @@
 
 ## Overview
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/tts&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/tts&ref=main&action=edit)
+
 VyvoTTS converts text to speech by having an LLM generate interleaved audio codec tokens, which are then decoded to audio waveforms. It supports **SNAC** and **Mimi** audio codecs.
 
 ## Installation
